@@ -9,7 +9,7 @@ public class childrenExample extends Parent {
 		//
 		super();
 		System.out.println("age");
-	}
+	}commenting for explanation
 	*/
 	public void duymmyMethod() {
 		
@@ -22,7 +22,7 @@ public class childrenExample extends Parent {
 	
 	
 	childrenExample c = new childrenExample();
-		p.duymmyMethod();
+		c.duymmyMethod();
 		
 	}
 	
